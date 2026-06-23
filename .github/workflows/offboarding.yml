@@ -1,12 +1,12 @@
-name: Automated Offboarding Process
-
 on:
+  repository_dispatch:
+    types: [offboarding]
   push:
     paths:
       - 'incoming/**/*.csv'
     branches:
       - main
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   process-offboarding:
@@ -15,128 +15,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Setup PowerShell
-        uses: actions/setup-powershell@v2
-      
-      - name: Find CSV files in incoming folder
-        id: find-files
+
+      - name: Create file from dispatch payload
+        if: github.event_name == 'repository_dispatch'
         run: |
-          $files = Get-ChildItem -Path "./incoming" -Filter "*.csv" -ErrorAction SilentlyContinue
-          $fileCount = $files.Count
-          
-          if ($fileCount -eq 0) {
-            Write-Output "No CSV files found"
-            Write-Output "count=0" >> $env:GITHUB_OUTPUT
-            exit 0
-          }
-          
-          Write-Output "Found $fileCount CSV file(s)"
-          Write-Output "count=$fileCount" >> $env:GITHUB_OUTPUT
-          
-          foreach ($file in $files) {
-            Write-Output "- $($file.Name) ($($file.Length) bytes)"
-          }
-        shell: pwsh
-      
-      - name: Process CSV files with Azure Automation
-        if: steps.find-files.outputs.count > 0
-        run: |
-          Write-Output "=========================================="
-          Write-Output "Processing Offboarding CSV Files"
-          Write-Output "=========================================="
-          
-          $csvFiles = Get-ChildItem -Path "./incoming" -Filter "*.csv" -ErrorAction SilentlyContinue
-          
-          foreach ($file in $csvFiles) {
-            Write-Output ""
-            Write-Output "Processing file: $($file.Name)"
-            Write-Output "Size: $($file.Length) bytes"
-            Write-Output "Last modified: $($file.LastWriteTime)"
-            
-            try {
-              # Read CSV content
-              $csvContent = Get-Content $file.FullName -Raw
-              $csvLines = @($csvContent -split "`n" | Where-Object { $_.Trim() })
-              
-              Write-Output "CSV Lines: $($csvLines.Count)"
-              
-              # Parse first line for headers
-              $headers = $csvLines[0] -split ","
-              Write-Output "Columns: $($headers.Count)"
-              Write-Output "Headers: $($headers -join ', ')"
-              
-              Write-Output "✓ CSV validation passed"
-              
-              # TODO: Call Azure Automation Runbook here
-              # Example (uncomment when ready):
-              # Invoke-RestMethod -Uri $runbookWebhook -Method Post -Body $webhookBody
-              
-            }
-            catch {
-              Write-Output "✗ Error processing file: $($_.Exception.Message)"
-              Write-Output "Stack: $($_.ScriptStackTrace)"
-            }
-          }
-          
-          Write-Output ""
-          Write-Output "=========================================="
-        shell: pwsh
-      
-      - name: Move processed files to archive
-        if: steps.find-files.outputs.count > 0
-        run: |
-          $csvFiles = Get-ChildItem -Path "./incoming" -Filter "*.csv" -ErrorAction SilentlyContinue
-          
-          if ($csvFiles.Count -eq 0) {
-            Write-Output "No files to archive"
-            exit 0
-          }
-          
-          $archiveDate = Get-Date -Format 'yyyy-MM-dd'
-          $archiveDir = "./processed/$archiveDate"
-          
-          Write-Output "Creating archive directory: $archiveDir"
-          New-Item -ItemType Directory -Path $archiveDir -Force | Out-Null
-          
-          foreach ($file in $csvFiles) {
-            $destinationPath = "$archiveDir/$($file.Name)"
-            Write-Output "Archiving: $($file.Name) → $destinationPath"
-            
-            Move-Item -Path $file.FullName -Destination $destinationPath -Force
-          }
-          
-          Write-Output "✓ Files archived successfully"
-        shell: pwsh
-      
-      - name: Create workflow summary
-        if: always()
-        run: |
-          $summary = @{
-            Timestamp = Get-Date -Format 'o'
-            WorkflowRunId = $env:GITHUB_RUN_ID
-            Repository = $env:GITHUB_REPOSITORY
-            Branch = $env:GITHUB_REF
-            Actor = $env:GITHUB_ACTOR
-            Status = if ($? -eq $true) { "Success" } else { "Failed" }
-            FilesProcessed = @(Get-ChildItem -Path "./incoming" -Filter "*.csv" -ErrorAction SilentlyContinue).Count
-          }
-          
-          Write-Output "=========================================="
-          Write-Output "WORKFLOW SUMMARY"
-          Write-Output "=========================================="
-          Write-Output $summary | ConvertTo-Json | Out-String
-          Write-Output "=========================================="
-        shell: pwsh
-      
-      - name: Commit changes to GitHub
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          git add -A
-          git commit -m "Automated: Archive processed CSV files (Run #${{ github.run_number }})" || echo "No changes to commit"
-          git push
-        continue-on-error: true
+          mkdir -p incoming
+          echo "${{ github.event.client_payload.contentBase64 }}" | base64 -d > "incoming/${{ github.event.client_payload.fileName }}"
+        shell: bash
