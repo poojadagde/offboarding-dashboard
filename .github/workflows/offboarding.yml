@@ -2,7 +2,7 @@ name: Automated Offboarding Process
 
 on:
   repository_dispatch:
-    types: [offboarding_email_received]
+    types: [offboarding]
   push:
     paths:
       - 'incoming/**/*.csv'
