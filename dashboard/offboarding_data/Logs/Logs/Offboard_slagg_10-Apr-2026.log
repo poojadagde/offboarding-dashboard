@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for slagg : Lewis, Nancy
+The manager for slagg is correctly identified as Lewis, Nancy.
+
+Account Expiration Date for slagg : 27-Jun-2026 .
+
+The account expiration date for slagg is 27-Jun-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for slagg ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username slagg has been successfully offboarded
+
+Script executed by: ptamrakar on 10-Apr-2026 01:45:32
+
+-----------------------------------------------------------------------------------------------------------------------

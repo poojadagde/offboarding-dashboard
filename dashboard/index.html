@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Operations Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <h1>Operations Hub</h1>
+          <p>Automation dashboard</p>
+        </div>
+
+        <nav class="menu" aria-label="Dashboard sections">
+          <button class="menu-item active" data-target="onboarding">Onboarding</button>
+          <button class="menu-item" data-target="offboarding">Offboarding</button>
+          <button class="menu-item" data-target="about">About</button>
+        </nav>
+      </aside>
+
+      <main class="content">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Dashboard</p>
+            <h2 id="page-title">Onboarding</h2>
+          </div>
+          <div class="status-pill" id="status-pill">Automation Dashboard • Onboarding</div>
+        </header>
+
+        <section class="card-grid">
+          <article class="card">
+            <div class="description-stack">
+              <p id="section-purpose" class="purpose-text"></p>
+              <p id="section-description">Overview of new employee setup steps, access approvals, and welcome tasks.</p>
+              <button id="offboarding-button" class="action-btn" style="display: none;">Offboard a user</button>
+
+              <div id="offboarding-flow" class="offboarding-flow" style="display: none;">
+                <div id="offboarding-form-view" class="flow-view">
+                  <h3>Collect offboarding details</h3>
+                  <label class="field-row">
+                    <span>Username</span>
+                    <input id="field-username" type="text" placeholder="Enter username" />
+                  </label>
+                  <label class="field-row">
+                    <span>Manager name</span>
+                    <input id="field-manager-name" type="text" placeholder="Enter manager name" />
+                  </label>
+                  <label class="field-row">
+                    <span>Proceed despite expiration?</span>
+                    <select id="field-expiration-confirmation">
+                      <option value="yes">Yes</option>
+                      <option value="no">No</option>
+                    </select>
+                  </label>
+                  <label class="field-row">
+                    <span>Disable account?</span>
+                    <select id="field-disable-confirmation">
+                      <option value="yes">Yes</option>
+                      <option value="no">No</option>
+                    </select>
+                  </label>
+                  <div class="form-actions">
+                    <button id="review-offboarding-btn" class="action-btn" type="button">Review details</button>
+                  </div>
+                </div>
+
+                <div id="offboarding-review-view" class="flow-view" style="display: none;">
+                  <h3>Confirm offboarding details</h3>
+                  <ul id="review-fields-list" class="review-list"></ul>
+                  <div class="form-actions">
+                    <button id="confirm-offboarding-btn" class="action-btn" type="button">Confirm</button>
+                    <button id="cancel-offboarding-btn" class="secondary-btn" type="button">Cancel</button>
+                  </div>
+                </div>
+
+                <div id="offboarding-success-view" class="flow-view success-view" style="display: none;">
+                  <h3>Offboarding request confirmed</h3>
+                  <p id="offboarding-status-message">The collected details are ready for the next step.</p>
+                  <button id="back-to-form-btn" class="secondary-btn" type="button">Back</button>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <article id="offboarding-panel" class="card offboarding-panel" style="display: none;">
+            <h3 class="table-title">Offboarded user details</h3>
+
+            <div class="offboarding-controls">
+              <label class="filter-control">
+                <span>Filter</span>
+                <input id="offboarding-filter" type="search" placeholder="Search employee, date, or offboarded by" />
+              </label>
+              <label class="filter-control">
+                <span>Sort by</span>
+                <select id="offboarding-sort">
+                  <option value="date-desc">Date (newest first)</option>
+                  <option value="date-asc">Date (oldest first)</option>
+                  <option value="employee-asc">Employee (A-Z)</option>
+                  <option value="employee-desc">Employee (Z-A)</option>
+                  <option value="offboarded-asc">Offboarded by (A-Z)</option>
+                  <option value="offboarded-desc">Offboarded by (Z-A)</option>
+                </select>
+              </label>
+            </div>
+
+            <div id="offboarding-results-summary" class="results-summary"></div>
+
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Emp Name</th>
+                    <th>Date and Time</th>
+                    <th>Offboarded By</th>
+                  </tr>
+                </thead>
+                <tbody id="offboarding-table-body">
+                  <tr>
+                    <td colspan="3">Loading offboarding history…</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div id="offboarding-pagination" class="pagination"></div>
+
+            <div class="task-details">
+              <h4>During this process the following task is done:</h4>
+              <ul>
+                <li>account disable</li>
+                <li>group remove</li>
+                <li>ou remove</li>
+                <li>manager remove</li>
+              </ul>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="offboarding_data/offboarding-history.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,11 @@
+Please enter the User's name : juanderson
+
+Please enter the manager's name for juanderson : Hutchinson, Marshall
+The manager for juanderson is correctly identified as Hutchinson, Marshall.
+
+Do you want to disable the account for juanderson ? (yes/no) : yes
+The given username juanderson has been successfully offboarded
+
+Script executed by: arsah on 22-Feb-2025 02:51:10
+
+-----------------------------------------------------------------------------------------------------------------------

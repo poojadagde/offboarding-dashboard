@@ -1,0 +1,15 @@
+Please enter the User's name : dricaurte
+
+Please enter the manager's name for dricaurte : Pethari, Venkat
+The manager for dricaurte is correctly identified as Pethari, Venkat.
+
+Account Expiration Date for dricaurte : 18-Dec-2025 .
+
+The account expiration date for dricaurte is 18-Dec-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for dricaurte ? (yes/no) : yes
+The given username dricaurte has been successfully offboarded
+
+Script executed by: pdagde on 04-Nov-2025 02:46:14
+
+-----------------------------------------------------------------------------------------------------------------------

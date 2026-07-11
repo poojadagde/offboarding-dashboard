@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for drodriguez : Garrastazu, Matthew
+The manager for drodriguez is correctly identified as Garrastazu, Matthew.
+
+Account Expiration Date for drodriguez : 09-Jul-2026 .
+
+The account expiration date for drodriguez is 09-Jul-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for drodriguez ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username drodriguez has been successfully offboarded
+
+Script executed by: ptamrakar on 29-Apr-2026 04:58:47
+
+-----------------------------------------------------------------------------------------------------------------------

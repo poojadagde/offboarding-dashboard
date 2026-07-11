@@ -1,0 +1,15 @@
+Please enter the User's name : JBialosky
+
+Please enter the manager's name for JBialosky : Alvey, James
+The manager for JBialosky is correctly identified as Alvey, James.
+
+Account Expiration Date for JBialosky : 15-Dec-2025 .
+
+The account expiration date for JBialosky is 15-Dec-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for JBialosky ? (yes/no) : yes
+The given username JBialosky has been successfully offboarded
+
+Script executed by: ptamrakar on 22-Oct-2025 23:50:58
+
+-----------------------------------------------------------------------------------------------------------------------

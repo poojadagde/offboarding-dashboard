@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for ccampbell : Braune, Monika
+The manager for ccampbell is correctly identified as Braune, Monika.
+
+Account Expiration Date for ccampbell : 16-Jul-2026 .
+
+The account expiration date for ccampbell is 16-Jul-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for ccampbell ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username ccampbell has been successfully offboarded
+
+Script executed by: pdagde on 01-Apr-2026 08:25:23
+
+-----------------------------------------------------------------------------------------------------------------------

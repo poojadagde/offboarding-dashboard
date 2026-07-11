@@ -1,0 +1,32 @@
+Please enter the User's name : arsah
+
+Please enter the manager's name for arsah : Pandey, Vikash
+The manager for arsah is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for arsah : 01-Jul-2025 .
+
+The account expiration date for arsah is 01-Jul-2025 do you still want to offboard the user ? (yes/no) : no .
+
+Script executed by: arsah on 22-Jun-2025 20:49:34
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : arsah
+
+Please enter the manager's name for arsah : Pandey,Vikash
+The given manager name is invalid; as per the system record, the manager name is Pandey, Vikash. Please re-execute the script using the correct manager's name.
+
+Script executed by: arsah on 22-Jun-2025 21:22:28
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : arsah
+
+Please enter the manager's name for arsah : Pandey, Vikash
+The manager for arsah is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for arsah : 01-Jul-2025 .
+
+The account expiration date for arsah is 01-Jul-2025 do you still want to offboard the user ? (yes/no) : no .
+
+Script executed by: arsah on 22-Jun-2025 21:24:48
+
+-----------------------------------------------------------------------------------------------------------------------

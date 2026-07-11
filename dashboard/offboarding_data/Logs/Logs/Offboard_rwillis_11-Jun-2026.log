@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for rwillis : Stewart, Jamie
+The manager for rwillis is correctly identified as Stewart, Jamie.
+
+No expiration date set for rwillis .
+
+Do you want to disable the account for rwillis ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username rwillis has been successfully offboarded
+
+Script executed by: pdagde on 11-Jun-2026 02:41:27
+
+-----------------------------------------------------------------------------------------------------------------------

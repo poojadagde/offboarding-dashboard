@@ -1,0 +1,18 @@
+Please enter the User's name : sking
+
+User sking does not exist.
+
+Script executed by: pdagde on 16-Jan-2025 03:43:47
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : sking
+
+Please enter the manager's name for sking : Lausten, Jason
+The manager for sking is correctly identified as Lausten, Jason.
+
+Do you want to disable the account for sking ? (yes/no) : yes
+The given username sking has been successfully offboarded
+
+Script executed by: pdagde on 16-Jan-2025 03:44:11
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for gowens : Braune, Monika
+The manager for gowens is correctly identified as Braune, Monika.
+
+Account Expiration Date for gowens : 16-Jul-2026 .
+
+The account expiration date for gowens is 16-Jul-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for gowens ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username gowens has been successfully offboarded
+
+Script executed by: pdagde on 01-Apr-2026 08:37:39
+
+-----------------------------------------------------------------------------------------------------------------------

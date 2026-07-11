@@ -1,0 +1,18 @@
+Please enter the User's name : sjacobs
+
+Please enter the manager's name for sjacobs : Laurinas, Steven
+The given manager name is invalid; as per the system record, the manager name is Laurinas, Steve. Please re-execute the script using the correct manager's name.
+
+Please enter the User's name : sjacobs
+
+Please enter the manager's name for sjacobs : Laurinas, Steve
+The manager for sjacobs is correctly identified as Laurinas, Steve.
+
+No expiration date set for sjacobs .
+
+Do you want to disable the account for sjacobs ? (yes/no) : yes
+The given username sjacobs has been successfully offboarded
+
+Script executed by: cabell on 19-Dec-2025 14:52:06
+
+-----------------------------------------------------------------------------------------------------------------------

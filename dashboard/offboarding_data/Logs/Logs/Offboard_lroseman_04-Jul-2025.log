@@ -1,0 +1,15 @@
+Please enter the User's name : lroseman
+
+Please enter the manager's name for lroseman : Condos, James
+The manager for lroseman is correctly identified as Condos, James.
+
+Account Expiration Date for lroseman : 21-Aug-2025 .
+
+The account expiration date for lroseman is 21-Aug-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for lroseman ? (yes/no) : yes
+The given username lroseman has been successfully offboarded
+
+Script executed by: pdagde on 04-Jul-2025 04:33:58
+
+-----------------------------------------------------------------------------------------------------------------------

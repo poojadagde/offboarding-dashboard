@@ -1,0 +1,15 @@
+Please enter the User's name : dpardeshi
+
+Please enter the manager's name for dpardeshi : Pandey, Vikash
+The manager for dpardeshi is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for dpardeshi : 03-Dec-2025 .
+
+The account expiration date for dpardeshi is 03-Dec-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for dpardeshi ? (yes/no) : yes
+The given username dpardeshi has been successfully offboarded
+
+Script executed by: ptamrakar on 27-Sep-2025 07:51:48
+
+-----------------------------------------------------------------------------------------------------------------------

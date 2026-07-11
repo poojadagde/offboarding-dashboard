@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for wbryant : Pearson, Timothy
+The manager for wbryant is correctly identified as Pearson, Timothy.
+
+Account Expiration Date for wbryant : 10-Jul-2026 .
+
+The account expiration date for wbryant is 10-Jul-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for wbryant ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username wbryant has been successfully offboarded
+
+Script executed by: pdagde on 20-Apr-2026 05:47:34
+
+-----------------------------------------------------------------------------------------------------------------------

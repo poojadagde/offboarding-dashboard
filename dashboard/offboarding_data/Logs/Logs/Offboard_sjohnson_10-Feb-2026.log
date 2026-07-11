@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for sjohnson : Sandoval, Carlos
+The manager for sjohnson is correctly identified as Sandoval, Carlos.
+
+Account Expiration Date for sjohnson : 30-Nov-2026 .
+
+The account expiration date for sjohnson is 30-Nov-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for sjohnson ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username sjohnson has been successfully offboarded
+
+Script executed by: pdagde on 10-Feb-2026 03:20:04
+
+-----------------------------------------------------------------------------------------------------------------------

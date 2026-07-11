@@ -1,0 +1,11 @@
+Please enter the User's name : cmarett
+
+Please enter the manager's name for cmarett : Wolfe, Clark
+The manager for cmarett is correctly identified as Wolfe, Clark.
+
+Do you want to disable the account for cmarett ? (yes/no) : yes
+The given username cmarett has been successfully offboarded
+
+Script executed by: ptamrakar on 10-May-2025 02:57:15
+
+-----------------------------------------------------------------------------------------------------------------------

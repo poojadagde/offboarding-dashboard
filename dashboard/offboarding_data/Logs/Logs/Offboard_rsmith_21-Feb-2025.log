@@ -1,0 +1,11 @@
+Please enter the User's name : rsmith
+
+Please enter the manager's name for rsmith : Salinas, Juan
+The manager for rsmith is correctly identified as Salinas, Juan.
+
+Do you want to disable the account for rsmith ? (yes/no) : yes
+The given username rsmith has been successfully offboarded
+
+Script executed by: aparashar on 21-Feb-2025 11:50:45
+
+-----------------------------------------------------------------------------------------------------------------------

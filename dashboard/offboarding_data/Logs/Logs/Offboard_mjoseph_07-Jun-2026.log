@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for mjoseph : Batista Perez, Maria
+The manager for mjoseph is correctly identified as Batista Perez, Maria.
+
+No expiration date set for mjoseph .
+
+Do you want to disable the account for mjoseph ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username mjoseph has been successfully offboarded
+
+Script executed by: pdagde on 07-Jun-2026 03:19:29
+
+-----------------------------------------------------------------------------------------------------------------------

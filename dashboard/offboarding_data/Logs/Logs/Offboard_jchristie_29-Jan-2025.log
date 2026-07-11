@@ -1,0 +1,11 @@
+Please enter the User's name : jchristie
+
+Please enter the manager's name for jchristie : Phillips, Jason
+The manager for jchristie is correctly identified as Phillips, Jason.
+
+Do you want to disable the account for jchristie ? (yes/no) : yes
+The given username jchristie has been successfully offboarded
+
+Script executed by: kgunde on 29-Jan-2025 18:46:29
+
+-----------------------------------------------------------------------------------------------------------------------

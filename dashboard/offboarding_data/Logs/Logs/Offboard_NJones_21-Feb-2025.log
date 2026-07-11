@@ -1,0 +1,11 @@
+Please enter the User's name : NJones
+
+Please enter the manager's name for NJones : Urell, Patrick
+The manager for NJones is correctly identified as Urell, Patrick.
+
+Do you want to disable the account for NJones ? (yes/no) : yes
+The given username NJones has been successfully offboarded
+
+Script executed by: pdagde on 21-Feb-2025 11:27:51
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+Please enter the User's name : pdagde
+
+Please enter the manager's name for pdagde : Pandey, Vikash
+The manager for pdagde is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for pdagde : 01-Apr-2025 .
+
+The account expiration date for pdagde is 01-Apr-2025 do you still want to offboard the user ? (yes/no) : no .
+
+Script executed by: pdagde on 27-Feb-2025 12:13:51
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : pdagde
+
+Please enter the manager's name for pdagde : Pandey, Vikash
+The manager for pdagde is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for pdagde : 01-Apr-2025 .
+
+The account expiration date for pdagde is 01-Apr-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for pdagde ? (yes/no) : no
+Operation cancelled by user.
+
+Script executed by: pdagde on 27-Feb-2025 12:16:10
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : pdagde
+
+Please enter the manager's name for pdagde : pandey, Vikash
+The manager for pdagde is correctly identified as pandey, Vikash.
+
+Account Expiration Date for pdagde : 01-Apr-2025 .
+
+The account expiration date for pdagde is 01-Apr-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for pdagde ? (yes/no) : no
+Operation cancelled by user.
+
+Script executed by: pdagde on 27-Feb-2025 12:19:47
+
+-----------------------------------------------------------------------------------------------------------------------

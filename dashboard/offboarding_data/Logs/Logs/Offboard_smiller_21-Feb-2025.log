@@ -1,0 +1,11 @@
+Please enter the User's name : smiller
+
+Please enter the manager's name for smiller : Hogan, Chris
+The manager for smiller is correctly identified as Hogan, Chris.
+
+Do you want to disable the account for smiller ? (yes/no) : yes
+The given username smiller has been successfully offboarded
+
+Script executed by: aparashar on 21-Feb-2025 11:06:51
+
+-----------------------------------------------------------------------------------------------------------------------

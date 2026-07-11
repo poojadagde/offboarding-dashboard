@@ -1,0 +1,13 @@
+Please enter the User's name : jlanderson
+
+Please enter the manager's name for jlanderson : Watkins, David
+The manager for jlanderson is correctly identified as Watkins, David.
+
+No expiration date set for jlanderson .
+
+Do you want to disable the account for jlanderson ? (yes/no) : yes
+The given username jlanderson has been successfully offboarded
+
+Script executed by: cabell on 20-Feb-2026 15:17:46
+
+-----------------------------------------------------------------------------------------------------------------------

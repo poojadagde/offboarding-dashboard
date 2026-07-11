@@ -1,0 +1,11 @@
+Please enter the User's name : gvarghese
+
+Please enter the manager's name for gvarghese : Heinle, Scott
+The manager for gvarghese is correctly identified as Heinle, Scott.
+
+Do you want to disable the account for gvarghese ? (yes/no) : yes
+The given username gvarghese has been successfully offboarded
+
+Script executed by: kgunde on 16-Jan-2025 04:11:53
+
+-----------------------------------------------------------------------------------------------------------------------

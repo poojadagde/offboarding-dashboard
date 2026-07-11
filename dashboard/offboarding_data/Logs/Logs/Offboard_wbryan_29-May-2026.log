@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for wbryan : Teerlinck, Scott
+The manager for wbryan is correctly identified as Teerlinck, Scott.
+
+No expiration date set for wbryan .
+
+Do you want to disable the account for wbryan ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username wbryan has been successfully offboarded
+
+Script executed by: ptamrakar on 29-May-2026 02:44:32
+
+-----------------------------------------------------------------------------------------------------------------------

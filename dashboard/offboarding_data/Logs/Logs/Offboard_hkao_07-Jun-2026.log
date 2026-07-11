@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for hkao : Stampfel, John
+The manager for hkao is correctly identified as Stampfel, John.
+
+No expiration date set for hkao .
+
+Do you want to disable the account for hkao ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username hkao has been successfully offboarded
+
+Script executed by: pdagde on 07-Jun-2026 03:40:01
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+Please enter the User's name : gshastri
+
+Please enter the manager's name for gshastri : Pandey, Vikash
+The manager for gshastri is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for gshastri : 26-Dec-2025 .
+
+Do you want to disable the account for gshastri ? (yes/no) : yes
+The given username gshastri has been successfully offboarded
+
+Script executed by: pdagde on 29-Dec-2025 01:20:16
+
+-----------------------------------------------------------------------------------------------------------------------

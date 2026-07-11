@@ -1,0 +1,11 @@
+Please enter the User's name : cjames
+
+Please enter the manager's name for cjames : Wright, William
+The manager for cjames is correctly identified as Wright, William.
+
+Do you want to disable the account for cjames ? (yes/no) : yes
+The given username cjames has been successfully offboarded
+
+Script executed by: ptamrakar on 01-Apr-2025 03:33:34
+
+-----------------------------------------------------------------------------------------------------------------------

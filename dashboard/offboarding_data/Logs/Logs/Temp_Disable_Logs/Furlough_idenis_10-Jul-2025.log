@@ -1,0 +1,11 @@
+Please enter the User's name : idenis
+
+Please enter the manager's name for idenis : Potvin, Vincent
+The manager for idenis is correctly identified as Potvin, Vincent.
+
+Do you want to disable the account for idenis ? (yes/no) : yes
+The given username idenis has been successfully disabled
+
+Script executed by: ptamrakar on 10-Jul-2025 00:40:49
+
+-----------------------------------------------------------------------------------------------------------------------

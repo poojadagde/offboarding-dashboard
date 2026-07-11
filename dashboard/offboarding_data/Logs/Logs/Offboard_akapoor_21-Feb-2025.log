@@ -1,0 +1,18 @@
+Please enter the User's name : akapoor
+
+No manager found for akapoor.
+
+Script executed by: pdagde on 21-Feb-2025 11:17:31
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : akapoor
+
+Please enter the manager's name for akapoor : Bajpai, Piyush
+The manager for akapoor is correctly identified as Bajpai, Piyush.
+
+Do you want to disable the account for akapoor ? (yes/no) : yes
+The given username akapoor has been successfully offboarded
+
+Script executed by: pdagde on 21-Feb-2025 11:19:48
+
+-----------------------------------------------------------------------------------------------------------------------

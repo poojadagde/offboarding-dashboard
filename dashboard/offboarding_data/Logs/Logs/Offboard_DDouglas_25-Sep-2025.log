@@ -1,0 +1,15 @@
+Please enter the User's name : DDouglas
+
+Please enter the manager's name for DDouglas : O'Grady, Michael
+The manager for DDouglas is correctly identified as O'Grady, Michael.
+
+Account Expiration Date for DDouglas : 30-Sep-2025 .
+
+The account expiration date for DDouglas is 30-Sep-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for DDouglas ? (yes/no) : yes
+The given username DDouglas has been successfully offboarded
+
+Script executed by: pdagde on 25-Sep-2025 12:20:23
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+Please enter the User's name : Btdavis
+
+Please enter the manager's name for Btdavis : Williams, Amery
+The given manager name is invalid; as per the system record, the manager name is Williams, Amery M.. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 06-Jun-2025 15:34:34
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : btdavis
+
+Please enter the manager's name for btdavis : amwilliams
+The given manager name is invalid; as per the system record, the manager name is Williams, Amery M.. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 06-Jun-2025 15:35:11
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : btdavis
+
+Please enter the manager's name for btdavis : Amery Williams
+The given manager name is invalid; as per the system record, the manager name is Williams, Amery M.. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 06-Jun-2025 15:35:34
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : Btdavis
+
+Please enter the manager's name for Btdavis : Williams, Amery M.
+The manager for Btdavis is correctly identified as Williams, Amery M..
+
+Do you want to disable the account for Btdavis ? (yes/no) : yes
+The given username Btdavis has been successfully offboarded
+
+Script executed by: cabell on 06-Jun-2025 15:35:47
+
+-----------------------------------------------------------------------------------------------------------------------

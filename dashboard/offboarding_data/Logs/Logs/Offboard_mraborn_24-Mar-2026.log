@@ -1,0 +1,19 @@
+﻿User mraborn does not exist.
+
+Script executed by: pdagde on 24-Mar-2026 07:43:07
+
+Please enter the User's name : mraborn
+
+Please enter the manager's name for mraborn : Smith, Gregory
+The manager for mraborn is correctly identified as Smith, Gregory.
+
+Account Expiration Date for mraborn : 31-Mar-2026 .
+
+The account expiration date for mraborn is 31-Mar-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for mraborn ? (yes/no) : yes
+The given username mraborn has been successfully offboarded
+
+Script executed by: pdagde on 24-Mar-2026 08:05:06
+
+-----------------------------------------------------------------------------------------------------------------------

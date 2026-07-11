@@ -1,0 +1,11 @@
+Please enter the User's name : dakelley
+
+Please enter the manager's name for dakelley : Eich, MAtthew
+The manager for dakelley is correctly identified as Eich, MAtthew.
+
+Do you want to disable the account for dakelley ? (yes/no) : yes
+The given username dakelley has been successfully offboarded
+
+Script executed by: cabell on 13-May-2025 09:56:57
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Please enter the User's name : hsato
+
+Please enter the manager's name for hsato : Lausten, Jason
+The manager for hsato is correctly identified as Lausten, Jason.
+
+Do you want to disable the account for hsato ? (yes/no) : yes
+The given username hsato has been successfully offboarded
+
+Script executed by: kgunde on 16-Jan-2025 02:54:24
+
+-----------------------------------------------------------------------------------------------------------------------

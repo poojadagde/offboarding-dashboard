@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for dkidder : Lloyd, Sam
+The manager for dkidder is correctly identified as Lloyd, Sam.
+
+No expiration date set for dkidder .
+
+Do you want to disable the account for dkidder ? (yes/no) : YES
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username dkidder has been successfully offboarded
+
+Script executed by: pdagde on 01-Jun-2026 05:23:03
+
+-----------------------------------------------------------------------------------------------------------------------

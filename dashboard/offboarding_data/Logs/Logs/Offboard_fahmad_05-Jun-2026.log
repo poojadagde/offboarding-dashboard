@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for fahmad : Parks, Damon
+The manager for fahmad is correctly identified as Parks, Damon.
+
+Account Expiration Date for fahmad : 30-Jun-2026 .
+
+The account expiration date for fahmad is 30-Jun-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for fahmad ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username fahmad has been successfully offboarded
+
+Script executed by: ptamrakar on 05-Jun-2026 03:06:04
+
+-----------------------------------------------------------------------------------------------------------------------

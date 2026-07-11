@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for jogibbs : Lam, Nhut
+The manager for jogibbs is correctly identified as Lam, Nhut.
+
+No expiration date set for jogibbs .
+
+Do you want to disable the account for jogibbs ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username jogibbs has been successfully offboarded
+
+Script executed by: pdagde on 10-Feb-2026 04:38:15
+
+-----------------------------------------------------------------------------------------------------------------------

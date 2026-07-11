@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for slloyd : Westerlind, Kevin
+The manager for slloyd is correctly identified as Westerlind, Kevin.
+
+No expiration date set for slloyd .
+
+Do you want to disable the account for slloyd ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username slloyd has been successfully offboarded
+
+Script executed by: pdagde on 01-Jun-2026 05:39:45
+
+-----------------------------------------------------------------------------------------------------------------------

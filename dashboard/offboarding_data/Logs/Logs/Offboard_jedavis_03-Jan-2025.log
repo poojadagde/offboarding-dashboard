@@ -1,0 +1,11 @@
+Please enter the User's name : jedavis
+
+Please enter the manager's name for jedavis : Day, Jacob
+The manager for jedavis is correctly identified as Day, Jacob.
+
+Do you want to disable the account for jedavis ? (yes/no) : yes
+The given username jedavis has been successfully offboarded
+
+Script executed by: arsah on 03-Jan-2025 03:21:44
+
+-----------------------------------------------------------------------------------------------------------------------

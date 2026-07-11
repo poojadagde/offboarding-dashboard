@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for jthornhill : Scabarozi, Mark
+The manager for jthornhill is correctly identified as Scabarozi, Mark.
+
+No expiration date set for jthornhill .
+
+Do you want to disable the account for jthornhill ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username jthornhill has been successfully offboarded
+
+Script executed by: tmagee on 28-Apr-2026 13:57:18
+
+-----------------------------------------------------------------------------------------------------------------------

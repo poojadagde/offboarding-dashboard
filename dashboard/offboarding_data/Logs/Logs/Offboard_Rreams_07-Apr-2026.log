@@ -1,0 +1,17 @@
+﻿Please enter the manager's name for Rreams : Stewart, Edward
+The given manager name is invalid; as per the system record, the manager name is Beckstrand, Kirk. Please re-execute the script using the correct manager's name.
+
+Script executed by: tmagee on 07-Apr-2026 11:21:32
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the manager's name for Rreams : Beckstrand, Kirk
+The manager for Rreams is correctly identified as Beckstrand, Kirk.
+
+Do you want to disable the account for Rreams ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username Rreams has been successfully offboarded
+
+Script executed by: tmagee on 07-Apr-2026 11:25:14
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+Please enter the User's name : canjohnson
+
+Please enter the manager's name for canjohnson : Hogan, Chris
+The manager for canjohnson is correctly identified as Hogan, Chris.
+
+Account Expiration Date for canjohnson : 14-Oct-2025 .
+
+Do you want to disable the account for canjohnson ? (yes/no) : yes
+The given username canjohnson has been successfully offboarded
+
+Script executed by: kgunde on 29-Oct-2025 08:56:50
+
+-----------------------------------------------------------------------------------------------------------------------

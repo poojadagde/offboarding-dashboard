@@ -1,0 +1,15 @@
+Please enter the User's name : ergonzalez
+
+Please enter the manager's name for ergonzalez : Brown, Debbie
+The manager for ergonzalez is correctly identified as Brown, Debbie.
+
+Account Expiration Date for ergonzalez : 05-Jan-2026 .
+
+The account expiration date for ergonzalez is 05-Jan-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for ergonzalez ? (yes/no) : yes
+The given username ergonzalez has been successfully offboarded
+
+Script executed by: kgunde on 01-Nov-2025 11:44:23
+
+-----------------------------------------------------------------------------------------------------------------------

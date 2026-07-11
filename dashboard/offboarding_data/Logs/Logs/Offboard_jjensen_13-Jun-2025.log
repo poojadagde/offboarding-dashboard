@@ -1,0 +1,11 @@
+Please enter the User's name : jjensen
+
+Please enter the manager's name for jjensen : Francis, Daniel
+The manager for jjensen is correctly identified as Francis, Daniel.
+
+Do you want to disable the account for jjensen ? (yes/no) : yes
+The given username jjensen has been successfully offboarded
+
+Script executed by: kgunde on 13-Jun-2025 04:31:35
+
+-----------------------------------------------------------------------------------------------------------------------

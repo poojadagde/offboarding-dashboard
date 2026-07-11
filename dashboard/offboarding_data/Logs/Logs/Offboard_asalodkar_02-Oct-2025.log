@@ -1,0 +1,15 @@
+Please enter the User's name : asalodkar
+
+Please enter the manager's name for asalodkar : Pandey, Vikash
+The manager for asalodkar is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for asalodkar : 19-Oct-2025 .
+
+The account expiration date for asalodkar is 19-Oct-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for asalodkar ? (yes/no) : yes
+The given username asalodkar has been successfully offboarded
+
+Script executed by: pdagde on 02-Oct-2025 05:42:47
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for klequy : Potvin, Vincent
+The manager for klequy is correctly identified as Potvin, Vincent.
+
+No expiration date set for klequy .
+
+Do you want to disable the account for klequy ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username klequy has been successfully offboarded
+
+Script executed by: pdagde on 25-Jun-2026 04:51:31
+
+-----------------------------------------------------------------------------------------------------------------------

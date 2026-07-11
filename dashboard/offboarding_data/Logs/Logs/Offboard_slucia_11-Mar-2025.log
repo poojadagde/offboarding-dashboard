@@ -1,0 +1,19 @@
+Please enter the User's name : slucia
+
+Please enter the manager's name for slucia : Dwyer, Joshua
+The given manager name is invalid; as per the system record, the manager name is TERM_Sanchez, Jacqueline. Please re-execute the script using the correct manager's name.
+
+Script executed by: dpardeshi on 11-Mar-2025 03:35:51
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : slucia
+
+Please enter the manager's name for slucia : TERM_Sanchez, Jacqueline
+The manager for slucia is correctly identified as TERM_Sanchez, Jacqueline.
+
+Do you want to disable the account for slucia ? (yes/no) : yes
+The given username slucia has been successfully offboarded
+
+Script executed by: kgunde on 11-Mar-2025 04:28:28
+
+-----------------------------------------------------------------------------------------------------------------------

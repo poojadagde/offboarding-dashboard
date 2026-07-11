@@ -1,0 +1,11 @@
+Please enter the User's name : tsnarski
+
+Please enter the manager's name for tsnarski : Smith, Laura
+The manager for tsnarski is correctly identified as Smith, Laura.
+
+Do you want to disable the account for tsnarski ? (yes/no) : yes
+The given username tsnarski has been successfully offboarded
+
+Script executed by: kgunde on 15-Jan-2025 03:07:01
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+Please enter the User's name : sstucker
+
+Please enter the manager's name for sstucker : Watson, Earnest
+The given manager name is invalid; as per the system record, the manager name is Worthen, David. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 08-May-2026 10:13:11
+
+Please enter the User's name : sstucker
+
+Please enter the manager's name for sstucker : Watson, Ernist
+The given manager name is invalid; as per the system record, the manager name is Worthen, David. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 08-May-2026 10:13:47
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : sstucker
+
+Please enter the manager's name for sstucker : Watson, Ernest
+The given manager name is invalid; as per the system record, the manager name is Worthen, David. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 08-May-2026 10:14:09
+
+Please enter the User's name : sstucker
+
+Please enter the manager's name for sstucker : Worthen, David
+The manager for sstucker is correctly identified as Worthen, David.
+
+No expiration date set for sstucker .
+
+Do you want to disable the account for sstucker ? (yes/no) : yes
+The given username sstucker has been successfully offboarded
+
+Script executed by: cabell on 08-May-2026 10:14:32
+
+-----------------------------------------------------------------------------------------------------------------------

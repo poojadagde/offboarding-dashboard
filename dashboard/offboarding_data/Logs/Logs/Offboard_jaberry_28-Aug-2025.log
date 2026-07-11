@@ -1,0 +1,15 @@
+Please enter the User's name : jaberry
+
+Please enter the manager's name for jaberry : Berey, Veronica
+The manager for jaberry is correctly identified as Berey, Veronica.
+
+Account Expiration Date for jaberry : 20-Nov-2025 .
+
+The account expiration date for jaberry is 20-Nov-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for jaberry ? (yes/no) : yes
+The given username jaberry has been successfully offboarded
+
+Script executed by: asalodkar on 28-Aug-2025 07:50:14
+
+-----------------------------------------------------------------------------------------------------------------------

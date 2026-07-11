@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for jsansi : Heinle, Scott
+The manager for jsansi is correctly identified as Heinle, Scott.
+
+Account Expiration Date for jsansi : 29-Jun-2026 .
+
+The account expiration date for jsansi is 29-Jun-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for jsansi ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username jsansi has been successfully offboarded
+
+Script executed by: pdagde on 23-Apr-2026 09:34:28
+
+-----------------------------------------------------------------------------------------------------------------------

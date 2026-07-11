@@ -1,0 +1,11 @@
+Please enter the User's name : jgalow
+
+Please enter the manager's name for jgalow : Lausten, Jason
+The manager for jgalow is correctly identified as Lausten, Jason.
+
+Do you want to disable the account for jgalow ? (yes/no) : yes
+The given username jgalow has been successfully offboarded
+
+Script executed by: dpardeshi on 28-May-2025 04:55:08
+
+-----------------------------------------------------------------------------------------------------------------------

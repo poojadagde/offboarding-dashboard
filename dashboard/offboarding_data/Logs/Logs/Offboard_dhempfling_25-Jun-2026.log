@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for dhempfling : Waller, Steve
+The manager for dhempfling is correctly identified as Waller, Steve.
+
+No expiration date set for dhempfling .
+
+Do you want to disable the account for dhempfling ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username dhempfling has been successfully offboarded
+
+Script executed by: pdagde on 25-Jun-2026 04:57:54
+
+-----------------------------------------------------------------------------------------------------------------------

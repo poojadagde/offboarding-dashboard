@@ -1,0 +1,35 @@
+name: Generate Offboarding History
+
+on:
+  push:
+    paths:
+      - 'dashboard/offboarding_data/Logs/**'
+      - 'dashboard/offboarding_data/Manual Off-Boardings/**'
+      - 'dashboard/generate-history.ps1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate JSON history
+        shell: pwsh
+        run: |
+          ./dashboard/generate-history.ps1
+
+      - name: Commit generated history
+        shell: bash
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dashboard/offboarding_data/offboarding-history.json
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update offboarding history JSON"
+          git push
+        continue-on-error: true

@@ -1,0 +1,15 @@
+Please enter the User's name : akirkwood
+
+Please enter the manager's name for akirkwood : Hogan, Chris
+The manager for akirkwood is correctly identified as Hogan, Chris.
+
+Account Expiration Date for akirkwood : 19-Sep-2025 .
+
+The account expiration date for akirkwood is 19-Sep-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for akirkwood ? (yes/no) : yes
+The given username akirkwood has been successfully offboarded
+
+Script executed by: pdagde on 18-Sep-2025 08:30:20
+
+-----------------------------------------------------------------------------------------------------------------------

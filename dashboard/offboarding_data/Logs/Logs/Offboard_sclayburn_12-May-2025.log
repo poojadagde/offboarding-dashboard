@@ -1,0 +1,13 @@
+Please enter the User's name : sclayburn
+
+Please enter the manager's name for sclayburn : dwatkins
+The given manager name is invalid; as per the system record, the manager name is Watkins, David. Please re-execute the script using the correct manager's name.
+
+Please enter the manager's name for sclayburn : Watkins, David
+The manager for sclayburn is correctly identified as Watkins, David.
+
+Do you want to disable the account for sclayburn ? (yes/no) : yes
+The given username sclayburn has been successfully offboarded
+
+Script executed by: cabell on 12-May-2025 14:32:10
+

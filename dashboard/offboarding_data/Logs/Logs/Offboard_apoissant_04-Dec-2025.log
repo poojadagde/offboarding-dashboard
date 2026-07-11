@@ -1,0 +1,15 @@
+Please enter the User's name : apoissant
+
+Please enter the manager's name for apoissant : Arsenault, Lynn
+The manager for apoissant is correctly identified as Arsenault, Lynn.
+
+Account Expiration Date for apoissant : 27-Dec-2025 .
+
+The account expiration date for apoissant is 27-Dec-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for apoissant ? (yes/no) : yes
+The given username apoissant has been successfully offboarded
+
+Script executed by: ptamrakar on 04-Dec-2025 05:36:08
+
+-----------------------------------------------------------------------------------------------------------------------

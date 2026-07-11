@@ -1,0 +1,21 @@
+Please enter the User's name : AShea
+
+Please enter the manager's name for AShea : Smith, Gregory
+The manager for AShea is correctly identified as Smith, Gregory.
+
+Account Expiration Date for AShea : 24-Dec-2025 .
+
+The account expiration date for AShea is 24-Dec-2025 do you still want to offboard the user ? (yes/no) : YES .
+
+Do you want to disable the account for AShea ? (yes/no) : YES
+The given username AShea has been successfully offboarded
+
+Script executed by: pdagde on 10-Nov-2025 00:18:13
+
+-----------------------------------------------------------------------------------------------------------------------
+Script executed by: ptamrakar on 10-Nov-2025 02:14:01
+
+-----------------------------------------------------------------------------------------------------------------------
+Script executed by: ptamrakar on 10-Nov-2025 02:18:13
+
+-----------------------------------------------------------------------------------------------------------------------

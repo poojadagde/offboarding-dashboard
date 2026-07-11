@@ -1,0 +1,21 @@
+Please enter the User's name : hecheverria
+
+Please enter the manager's name for hecheverria : Dickinson, Nathaniel
+The given manager name is invalid; as per the system record, the manager name is Salinas, Juan. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 19-Feb-2026 08:46:21
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : hecheverria
+
+Please enter the manager's name for hecheverria : Salinas, Juan
+The manager for hecheverria is correctly identified as Salinas, Juan.
+
+No expiration date set for hecheverria .
+
+Do you want to disable the account for hecheverria ? (yes/no) : yes
+The given username hecheverria has been successfully offboarded
+
+Script executed by: cabell on 19-Feb-2026 08:46:54
+
+-----------------------------------------------------------------------------------------------------------------------

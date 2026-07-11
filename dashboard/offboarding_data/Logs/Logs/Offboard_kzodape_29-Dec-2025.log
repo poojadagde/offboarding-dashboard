@@ -1,0 +1,15 @@
+Please enter the User's name : kzodape
+
+Please enter the manager's name for kzodape : Nichols, David
+The manager for kzodape is correctly identified as Nichols, David.
+
+Account Expiration Date for kzodape : 03-Feb-2026 .
+
+The account expiration date for kzodape is 03-Feb-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for kzodape ? (yes/no) : yes
+The given username kzodape has been successfully offboarded
+
+Script executed by: pdagde on 29-Dec-2025 01:00:30
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+Please enter the User's name : tsandhu
+
+Please enter the manager's name for tsandhu : Nicolson, Zoe
+The manager for tsandhu is correctly identified as Nicolson, Zoe.
+
+Do you want to disable the account for tsandhu ? (yes/no) : y
+Operation cancelled by user.
+
+Script executed by: dpardeshi on 30-Jan-2025 03:02:06
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : tsandhu
+
+Please enter the manager's name for tsandhu : Nicolson, Zoe
+The manager for tsandhu is correctly identified as Nicolson, Zoe.
+
+Do you want to disable the account for tsandhu ? (yes/no) : yes
+The given username tsandhu has been successfully offboarded
+
+Script executed by: dpardeshi on 30-Jan-2025 03:05:04
+
+-----------------------------------------------------------------------------------------------------------------------

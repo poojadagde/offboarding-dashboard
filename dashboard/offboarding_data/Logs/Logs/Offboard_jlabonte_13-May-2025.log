@@ -1,0 +1,11 @@
+Please enter the User's name : jlabonte
+
+Please enter the manager's name for jlabonte : Potvin, Vincent
+The manager for jlabonte is correctly identified as Potvin, Vincent.
+
+Do you want to disable the account for jlabonte ? (yes/no) : yes
+The given username jlabonte has been successfully offboarded
+
+Script executed by: kgunde on 13-May-2025 06:13:39
+
+-----------------------------------------------------------------------------------------------------------------------

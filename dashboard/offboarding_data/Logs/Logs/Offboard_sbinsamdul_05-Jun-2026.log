@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for sbinsamdul : Parks, Damon
+The manager for sbinsamdul is correctly identified as Parks, Damon.
+
+Account Expiration Date for sbinsamdul : 30-Jun-2026 .
+
+The account expiration date for sbinsamdul is 30-Jun-2026 do you still want to offboard the user ? (yes/no) : YES .
+
+Do you want to disable the account for sbinsamdul ? (yes/no) : YES
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username sbinsamdul has been successfully offboarded
+
+Script executed by: ptamrakar on 05-Jun-2026 03:01:21
+
+-----------------------------------------------------------------------------------------------------------------------

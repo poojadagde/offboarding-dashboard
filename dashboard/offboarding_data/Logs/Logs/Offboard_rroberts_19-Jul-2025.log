@@ -1,0 +1,13 @@
+Please enter the User's name : rroberts
+
+Please enter the manager's name for rroberts : Stralman, Steven
+The manager for rroberts is correctly identified as Stralman, Steven.
+
+Account Expiration Date for rroberts : 05-May-2025 .
+
+Do you want to disable the account for rroberts ? (yes/no) : yes
+The given username rroberts has been successfully offboarded
+
+Script executed by: arsah on 19-Jul-2025 02:31:00
+
+-----------------------------------------------------------------------------------------------------------------------

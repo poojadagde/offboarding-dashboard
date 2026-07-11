@@ -1,0 +1,13 @@
+Please enter the User's name : edavis
+
+Please enter the manager's name for edavis : Peleg, Tal
+The manager for edavis is correctly identified as Peleg, Tal.
+
+Account Expiration Date for edavis : 23-Dec-2025 .
+
+Do you want to disable the account for edavis ? (yes/no) : yes
+The given username edavis has been successfully offboarded
+
+Script executed by: ptamrakar on 26-Dec-2025 06:10:54
+
+-----------------------------------------------------------------------------------------------------------------------

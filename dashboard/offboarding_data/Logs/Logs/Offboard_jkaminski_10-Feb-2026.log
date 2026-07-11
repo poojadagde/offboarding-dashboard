@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for jkaminski : Sandoval, Carlos
+The manager for jkaminski is correctly identified as Sandoval, Carlos.
+
+Account Expiration Date for jkaminski : 13-Feb-2026 .
+
+The account expiration date for jkaminski is 13-Feb-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for jkaminski ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username jkaminski has been successfully offboarded
+
+Script executed by: pdagde on 10-Feb-2026 03:58:58
+
+-----------------------------------------------------------------------------------------------------------------------

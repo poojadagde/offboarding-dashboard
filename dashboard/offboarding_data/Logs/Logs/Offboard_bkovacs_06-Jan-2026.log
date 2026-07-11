@@ -1,0 +1,13 @@
+Please enter the User's name : bkovacs
+
+Please enter the manager's name for bkovacs : Bullock, Adrian
+The manager for bkovacs is correctly identified as Bullock, Adrian.
+
+Account Expiration Date for bkovacs : 01-Jan-2026 .
+
+Do you want to disable the account for bkovacs ? (yes/no) : yes
+The given username bkovacs has been successfully offboarded
+
+Script executed by: ptamrakar on 06-Jan-2026 04:54:36
+
+-----------------------------------------------------------------------------------------------------------------------

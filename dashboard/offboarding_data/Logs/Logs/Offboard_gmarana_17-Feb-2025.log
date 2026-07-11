@@ -1,0 +1,11 @@
+Please enter the User's name : gmarana
+
+Please enter the manager's name for gmarana : Duncan, Craig
+The manager for gmarana is correctly identified as Duncan, Craig.
+
+Do you want to disable the account for gmarana ? (yes/no) : yes
+The given username gmarana has been successfully offboarded
+
+Script executed by: kgunde on 17-Feb-2025 02:50:23
+
+-----------------------------------------------------------------------------------------------------------------------

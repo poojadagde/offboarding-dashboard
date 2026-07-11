@@ -1,0 +1,11 @@
+Please enter the User's name : pdennis
+
+Please enter the manager's name for pdennis : Spellman, Kenneth
+The manager for pdennis is correctly identified as Spellman, Kenneth.
+
+Do you want to disable the account for pdennis ? (yes/no) : yes
+The given username pdennis has been successfully offboarded
+
+Script executed by: kgunde on 16-Jan-2025 04:03:40
+
+-----------------------------------------------------------------------------------------------------------------------

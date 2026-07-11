@@ -1,0 +1,15 @@
+Please enter the User's name : gmyers
+
+Please enter the manager's name for gmyers : Bylina, Jennifer
+The manager for gmyers is correctly identified as Bylina, Jennifer.
+
+Account Expiration Date for gmyers : 07-Jan-2026 .
+
+The account expiration date for gmyers is 07-Jan-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for gmyers ? (yes/no) : yes
+The given username gmyers has been successfully offboarded
+
+Script executed by: ptamrakar on 04-Dec-2025 06:11:24
+
+-----------------------------------------------------------------------------------------------------------------------

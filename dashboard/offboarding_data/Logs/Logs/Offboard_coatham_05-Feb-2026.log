@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for coatham : Bullock, Adrian
+The manager for coatham is correctly identified as Bullock, Adrian.
+
+Account Expiration Date for coatham : 31-Mar-2026 .
+
+The account expiration date for coatham is 31-Mar-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for coatham ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username coatham has been successfully offboarded
+
+Script executed by: pdagde on 05-Feb-2026 00:26:27
+
+-----------------------------------------------------------------------------------------------------------------------

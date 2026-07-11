@@ -1,0 +1,11 @@
+Please enter the User's name : mjohnson
+
+Please enter the manager's name for mjohnson : Heinle, Scott
+The manager for mjohnson is correctly identified as Heinle, Scott.
+
+Do you want to disable the account for mjohnson ? (yes/no) : yes
+The given username mjohnson has been successfully offboarded
+
+Script executed by: kgunde on 16-Jan-2025 04:15:10
+
+-----------------------------------------------------------------------------------------------------------------------

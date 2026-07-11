@@ -1,0 +1,11 @@
+Please enter the User's name : cxsmith
+
+Please enter the manager's name for cxsmith : Alvey, James
+The manager for cxsmith is correctly identified as Alvey, James.
+
+Do you want to disable the account for cxsmith ? (yes/no) : yes
+The given username cxsmith has been successfully offboarded
+
+Script executed by: pdagde on 31-Dec-2024 03:10:39
+
+-----------------------------------------------------------------------------------------------------------------------

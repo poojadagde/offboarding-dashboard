@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for CRhodes : Cowan, Phillip
+The manager for CRhodes is correctly identified as Cowan, Phillip.
+
+No expiration date set for CRhodes .
+
+Do you want to disable the account for CRhodes ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username CRhodes has been successfully offboarded
+
+Script executed by: ptamrakar on 03-Mar-2026 06:41:33
+
+-----------------------------------------------------------------------------------------------------------------------

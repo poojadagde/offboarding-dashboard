@@ -1,0 +1,11 @@
+Please enter the User's name : dgeorge
+
+Please enter the manager's name for dgeorge : Spasoff, Jim
+The manager for dgeorge is correctly identified as Spasoff, Jim.
+
+Do you want to disable the account for dgeorge ? (yes/no) : yes
+The given username dgeorge has been successfully offboarded
+
+Script executed by: arsah on 18-Apr-2025 04:21:47
+
+-----------------------------------------------------------------------------------------------------------------------

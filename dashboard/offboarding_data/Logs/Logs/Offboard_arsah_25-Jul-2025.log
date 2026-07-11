@@ -1,0 +1,15 @@
+Please enter the User's name : arsah
+
+Please enter the manager's name for arsah : Pandey, Vikash
+The manager for arsah is correctly identified as Pandey, Vikash.
+
+Account Expiration Date for arsah : 01-Sep-2025 .
+
+The account expiration date for arsah is 01-Sep-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for arsah ? (yes/no) : yes
+The given username arsah has been successfully offboarded
+
+Script executed by: pdagde on 25-Jul-2025 10:39:08
+
+-----------------------------------------------------------------------------------------------------------------------

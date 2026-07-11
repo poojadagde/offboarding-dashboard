@@ -1,0 +1,25 @@
+Please enter the User's name : vsardeshpande
+
+Please enter the manager's name for vsardeshpande : jhoward
+The given manager name is invalid; as per the system record, the manager name is Howard, Jake. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 05-Mar-2025 14:12:36
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : vsardeshpande
+
+Please enter the manager's name for vsardeshpande : jhoward
+The given manager name is invalid; as per the system record, the manager name is Howard, Jake. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 05-Mar-2025 14:16:51
+
+Please enter the User's name : vsardeshpande
+
+Please enter the manager's name for vsardeshpande : Howard, Jake
+The manager for vsardeshpande is correctly identified as Howard, Jake.
+
+Do you want to disable the account for vsardeshpande ? (yes/no) : yes
+The given username vsardeshpande has been successfully offboarded
+
+Script executed by: cabell on 05-Mar-2025 14:18:57
+

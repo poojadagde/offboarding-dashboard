@@ -1,0 +1,11 @@
+Please enter the User's name : mcollier
+
+Please enter the manager's name for mcollier : Braune, Monika
+The manager for mcollier is correctly identified as Braune, Monika.
+
+Do you want to disable the account for mcollier ? (yes/no) : yes
+The given username mcollier has been successfully disabled
+
+Script executed by: ptamrakar on 12-Jun-2025 01:12:17
+
+-----------------------------------------------------------------------------------------------------------------------

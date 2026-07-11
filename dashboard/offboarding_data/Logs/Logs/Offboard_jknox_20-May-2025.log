@@ -1,0 +1,19 @@
+Please enter the User's name : jknox
+
+Please enter the manager's name for jknox : Hogan, Chris
+The given manager name is invalid; as per the system record, the manager name is TERM_Bajic, Amy. Please re-execute the script using the correct manager's name.
+
+Script executed by: arsah on 20-May-2025 03:56:00
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : jknox
+
+Please enter the manager's name for jknox : TERM_Bajic, Amy
+The manager for jknox is correctly identified as TERM_Bajic, Amy.
+
+Do you want to disable the account for jknox ? (yes/no) : yes
+The given username jknox has been successfully offboarded
+
+Script executed by: arsah on 20-May-2025 04:03:08
+
+-----------------------------------------------------------------------------------------------------------------------

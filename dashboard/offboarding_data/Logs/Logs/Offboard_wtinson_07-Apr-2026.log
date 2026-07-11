@@ -1,0 +1,32 @@
+Please enter the User's name : wtinson
+
+Please enter the manager's name for wtinson : mwaycasie
+The given manager name is invalid; as per the system record, the manager name is Waycasie, Misty. Please re-execute the script using the correct manager's name.
+
+Please enter the User's name : wtinson
+
+Please enter the manager's name for wtinson : 
+The given manager name is invalid; as per the system record, the manager name is Waycasie, Misty. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 07-Apr-2026 09:31:05
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : wtinson
+
+Please enter the manager's name for wtinson : Alford, James
+The given manager name is invalid; as per the system record, the manager name is Waycasie, Misty. Please re-execute the script using the correct manager's name.
+
+Script executed by: cabell on 07-Apr-2026 09:31:48
+
+Please enter the User's name : wtinson
+
+Please enter the manager's name for wtinson : waycasie, Misty
+The manager for wtinson is correctly identified as waycasie, Misty.
+
+No expiration date set for wtinson .
+
+Do you want to disable the account for wtinson ? (yes/no) : yes
+The given username wtinson has been successfully offboarded
+
+Script executed by: cabell on 07-Apr-2026 09:32:08
+

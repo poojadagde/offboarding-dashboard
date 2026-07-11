@@ -1,0 +1,11 @@
+Please enter the User's name : dmiller
+
+Please enter the manager's name for dmiller : Cook, Cleven
+The manager for dmiller is correctly identified as Cook, Cleven.
+
+Do you want to disable the account for dmiller ? (yes/no) : yes
+The given username dmiller has been successfully offboarded
+
+Script executed by: pdagde on 21-Feb-2025 03:02:53
+
+-----------------------------------------------------------------------------------------------------------------------

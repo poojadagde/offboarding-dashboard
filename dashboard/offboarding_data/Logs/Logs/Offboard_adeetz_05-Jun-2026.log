@@ -1,0 +1,10 @@
+﻿Please enter the manager's name for adeetz : Pfahnl, Robert
+The manager for adeetz is correctly identified as Pfahnl, Robert.
+
+No expiration date set for adeetz .
+
+Do you want to disable the account for adeetz ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username adeetz has been successfully offboarded
+

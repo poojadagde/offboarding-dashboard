@@ -1,0 +1,19 @@
+﻿User kkramer does not exist.
+
+Script executed by: pdagde on 20-Apr-2026 05:19:24
+
+Please enter the manager's name for kkramer : Sanders, Ryan
+The manager for kkramer is correctly identified as Sanders, Ryan.
+
+Account Expiration Date for kkramer : 18-Aug-2026 .
+
+The account expiration date for kkramer is 18-Aug-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for kkramer ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username kkramer has been successfully offboarded
+
+Script executed by: pdagde on 20-Apr-2026 05:23:04
+
+-----------------------------------------------------------------------------------------------------------------------

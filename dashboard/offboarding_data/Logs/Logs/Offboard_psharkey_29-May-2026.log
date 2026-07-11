@@ -1,0 +1,21 @@
+﻿Please enter the manager's name for psharkey : Cordova, Austin
+The given manager name is invalid; as per the system record, the manager name is TERM_Cordova, Austin. Please re-execute the script using the correct manager's name.
+
+Script executed by: ptamrakar on 29-May-2026 02:25:41
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the manager's name for psharkey : TERM_Cordova, Austin
+The manager for psharkey is correctly identified as TERM_Cordova, Austin.
+
+Account Expiration Date for psharkey : 15-Aug-2026 .
+
+The account expiration date for psharkey is 15-Aug-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for psharkey ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username psharkey has been successfully offboarded
+
+Script executed by: ptamrakar on 29-May-2026 02:31:32
+
+-----------------------------------------------------------------------------------------------------------------------

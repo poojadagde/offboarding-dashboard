@@ -1,0 +1,11 @@
+Please enter the User's name : mamiller
+
+Please enter the manager's name for mamiller : Bajic, Amy
+The manager for mamiller is correctly identified as Bajic, Amy.
+
+Do you want to disable the account for mamiller ? (yes/no) : yes
+The given username mamiller has been successfully offboarded
+
+Script executed by: ptamrakar on 14-Jan-2025 03:00:12
+
+-----------------------------------------------------------------------------------------------------------------------

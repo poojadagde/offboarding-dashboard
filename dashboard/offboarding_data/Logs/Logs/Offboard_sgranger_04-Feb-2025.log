@@ -1,0 +1,10 @@
+Please enter the User's name : sgranger
+
+Please enter the manager's name for sgranger : Tysse, Eric
+The manager for sgranger is correctly identified as Tysse, Eric.
+
+Do you want to disable the account for sgranger ? (yes/no) : yes
+The given username sgranger has been successfully offboarded
+
+Script executed by: ptamrakar on 04-Feb-2025 04:25:07
+

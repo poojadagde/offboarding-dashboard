@@ -1,0 +1,13 @@
+Please enter the User's name : ocarter
+
+Please enter the manager's name for ocarter : kovacs, steve
+The manager for ocarter is correctly identified as kovacs, steve.
+
+No expiration date set for ocarter .
+
+Do you want to disable the account for ocarter ? (yes/no) : yes
+The given username ocarter has been successfully offboarded
+
+Script executed by: cabell on 09-Dec-2025 10:17:11
+
+-----------------------------------------------------------------------------------------------------------------------

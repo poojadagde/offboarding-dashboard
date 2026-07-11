@@ -1,0 +1,15 @@
+Please enter the User's name : meatkinson
+
+Please enter the manager's name for meatkinson : Furness, John
+The manager for meatkinson is correctly identified as Furness, John.
+
+Account Expiration Date for meatkinson : 28-Dec-2025 .
+
+The account expiration date for meatkinson is 28-Dec-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for meatkinson ? (yes/no) : yes
+The given username meatkinson has been successfully offboarded
+
+Script executed by: pdagde on 24-Dec-2025 01:55:23
+
+-----------------------------------------------------------------------------------------------------------------------

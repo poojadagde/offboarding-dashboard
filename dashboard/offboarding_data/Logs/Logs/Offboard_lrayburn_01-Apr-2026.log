@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for lrayburn : Braune, Monika
+The manager for lrayburn is correctly identified as Braune, Monika.
+
+Account Expiration Date for lrayburn : 15-Jul-2026 .
+
+The account expiration date for lrayburn is 15-Jul-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for lrayburn ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username lrayburn has been successfully offboarded
+
+Script executed by: pdagde on 01-Apr-2026 09:52:38
+
+-----------------------------------------------------------------------------------------------------------------------

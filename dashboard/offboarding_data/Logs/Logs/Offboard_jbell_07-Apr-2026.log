@@ -1,0 +1,13 @@
+Please enter the User's name : jbell
+
+Please enter the manager's name for jbell : Christensen, Jeffrey
+The manager for jbell is correctly identified as Christensen, Jeffrey.
+
+No expiration date set for jbell .
+
+Do you want to disable the account for jbell ? (yes/no) : yes
+The given username jbell has been successfully offboarded
+
+Script executed by: cabell on 07-Apr-2026 12:34:18
+
+-----------------------------------------------------------------------------------------------------------------------

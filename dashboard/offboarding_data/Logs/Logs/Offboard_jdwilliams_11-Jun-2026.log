@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for jdwilliams : Zymberi, Emir
+The manager for jdwilliams is correctly identified as Zymberi, Emir.
+
+No expiration date set for jdwilliams .
+
+Do you want to disable the account for jdwilliams ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username jdwilliams has been successfully offboarded
+
+Script executed by: pdagde on 11-Jun-2026 03:43:48
+
+-----------------------------------------------------------------------------------------------------------------------

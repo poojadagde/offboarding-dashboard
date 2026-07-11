@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for bbetts : Domanski, Mark
+The manager for bbetts is correctly identified as Domanski, Mark.
+
+No expiration date set for bbetts .
+
+Do you want to disable the account for bbetts ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username bbetts has been successfully offboarded
+
+Script executed by: pdagde on 09-Jun-2026 02:43:19
+
+-----------------------------------------------------------------------------------------------------------------------

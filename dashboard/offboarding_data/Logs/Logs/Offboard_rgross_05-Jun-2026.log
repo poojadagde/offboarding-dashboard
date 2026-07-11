@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for rgross : Bylina, Jennifer
+The manager for rgross is correctly identified as Bylina, Jennifer.
+
+Account Expiration Date for rgross : 27-Jul-2026 .
+
+The account expiration date for rgross is 27-Jul-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for rgross ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username rgross has been successfully offboarded
+
+Script executed by: ptamrakar on 05-Jun-2026 03:13:33
+
+-----------------------------------------------------------------------------------------------------------------------

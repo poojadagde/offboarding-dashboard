@@ -1,0 +1,13 @@
+Please enter the User's name : csantora
+
+Please enter the manager's name for csantora : Lausten, Jason
+The manager for csantora is correctly identified as Lausten, Jason.
+
+Account Expiration Date for csantora : 01-Oct-2025 .
+
+Do you want to disable the account for csantora ? (yes/no) : yes
+The given username csantora has been successfully offboarded
+
+Script executed by: tmagee on 22-Oct-2025 11:02:56
+
+-----------------------------------------------------------------------------------------------------------------------

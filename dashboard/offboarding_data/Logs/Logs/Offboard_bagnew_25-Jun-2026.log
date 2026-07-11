@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for bagnew : Lewis, Donovan
+The manager for bagnew is correctly identified as Lewis, Donovan.
+
+Account Expiration Date for bagnew : 12-Aug-2026 .
+
+The account expiration date for bagnew is 12-Aug-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for bagnew ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username bagnew has been successfully offboarded
+
+Script executed by: pdagde on 25-Jun-2026 04:34:51
+
+-----------------------------------------------------------------------------------------------------------------------

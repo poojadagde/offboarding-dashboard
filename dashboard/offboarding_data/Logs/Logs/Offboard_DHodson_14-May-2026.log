@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for DHodson : Hall, Danny
+The manager for DHodson is correctly identified as Hall, Danny.
+
+No expiration date set for DHodson .
+
+Do you want to disable the account for DHodson ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username DHodson has been successfully offboarded
+
+Script executed by: pdagde on 14-May-2026 04:09:39
+
+-----------------------------------------------------------------------------------------------------------------------

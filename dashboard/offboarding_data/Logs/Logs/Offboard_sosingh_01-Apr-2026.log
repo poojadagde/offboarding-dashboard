@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for sosingh : Braune, Monika
+The manager for sosingh is correctly identified as Braune, Monika.
+
+Account Expiration Date for sosingh : 16-Jun-2026 .
+
+The account expiration date for sosingh is 16-Jun-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for sosingh ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username sosingh has been successfully offboarded
+
+Script executed by: pdagde on 01-Apr-2026 11:53:20
+
+-----------------------------------------------------------------------------------------------------------------------

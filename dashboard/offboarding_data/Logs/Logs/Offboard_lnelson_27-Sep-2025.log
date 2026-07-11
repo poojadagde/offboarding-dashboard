@@ -1,0 +1,15 @@
+Please enter the User's name : lnelson
+
+Please enter the manager's name for lnelson : Hogan, Chris
+The manager for lnelson is correctly identified as Hogan, Chris.
+
+Account Expiration Date for lnelson : 19-Nov-2025 .
+
+The account expiration date for lnelson is 19-Nov-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for lnelson ? (yes/no) : yes
+The given username lnelson has been successfully offboarded
+
+Script executed by: ptamrakar on 27-Sep-2025 03:37:16
+
+-----------------------------------------------------------------------------------------------------------------------

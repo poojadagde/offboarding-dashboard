@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for beyoung : Cashmore, Rachael
+The manager for beyoung is correctly identified as Cashmore, Rachael.
+
+No expiration date set for beyoung .
+
+Do you want to disable the account for beyoung ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username beyoung has been successfully offboarded
+
+Script executed by: pdagde on 23-Apr-2026 09:12:23
+
+-----------------------------------------------------------------------------------------------------------------------

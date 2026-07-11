@@ -1,0 +1,11 @@
+﻿Please enter the manager's name for hghoreishi : Purvis, Andrew
+The manager for hghoreishi is correctly identified as Purvis, Andrew.
+
+Do you want to disable the account for hghoreishi ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username hghoreishi has been successfully offboarded
+
+Script executed by: tmagee on 30-Apr-2026 09:51:36
+
+-----------------------------------------------------------------------------------------------------------------------

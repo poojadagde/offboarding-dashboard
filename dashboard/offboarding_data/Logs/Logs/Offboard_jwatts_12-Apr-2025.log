@@ -1,0 +1,24 @@
+Please enter the User's name : jwatts
+
+Please enter the manager's name for jwatts : Komodi, Tamas
+The manager for jwatts is correctly identified as Komodi, Tamas.
+
+No expiration date set for jwatts .
+
+Do you want to disable the account for jwatts ? (yes/no) : no
+Operation cancelled by user.
+
+Script executed by: pdagde on 12-Apr-2025 03:31:01
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : jwatts
+
+Please enter the manager's name for jwatts : Komodi, Tamas
+The manager for jwatts is correctly identified as Komodi, Tamas.
+
+Do you want to disable the account for jwatts ? (yes/no) : yes
+The given username jwatts has been successfully offboarded
+
+Script executed by: aparashar on 12-Apr-2025 05:51:05
+
+-----------------------------------------------------------------------------------------------------------------------

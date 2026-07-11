@@ -1,0 +1,15 @@
+Please enter the User's name : jmckenzie
+
+Please enter the manager's name for jmckenzie : Heinle, Scott
+The manager for jmckenzie is correctly identified as Heinle, Scott.
+
+Account Expiration Date for jmckenzie : 17-Dec-2025 .
+
+The account expiration date for jmckenzie is 17-Dec-2025 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for jmckenzie ? (yes/no) : yes
+The given username jmckenzie has been successfully offboarded
+
+Script executed by: ptamrakar on 04-Dec-2025 05:56:17
+
+-----------------------------------------------------------------------------------------------------------------------

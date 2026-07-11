@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for jericson : Bryan, William
+The manager for jericson is correctly identified as Bryan, William.
+
+No expiration date set for jericson .
+
+Do you want to disable the account for jericson ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username jericson has been successfully offboarded
+
+Script executed by: pdagde on 15-May-2026 13:32:37
+
+-----------------------------------------------------------------------------------------------------------------------

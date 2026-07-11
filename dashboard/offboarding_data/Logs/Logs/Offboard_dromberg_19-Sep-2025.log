@@ -1,0 +1,20 @@
+Please enter the User's name : dromberg
+
+No manager found for dromberg.
+
+Script executed by: dpardeshi on 19-Sep-2025 13:35:07
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : dromberg
+
+Please enter the manager's name for dromberg : Mrocek, Ron
+The manager for dromberg is correctly identified as Mrocek, Ron.
+
+No expiration date set for dromberg .
+
+Do you want to disable the account for dromberg ? (yes/no) : yes
+The given username dromberg has been successfully offboarded
+
+Script executed by: dpardeshi on 19-Sep-2025 13:59:43
+
+-----------------------------------------------------------------------------------------------------------------------

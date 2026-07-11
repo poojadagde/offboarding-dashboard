@@ -1,0 +1,13 @@
+Please enter the User's name : DMcAndrew
+
+Please enter the manager's name for DMcAndrew : Francis, Daniel
+The manager for DMcAndrew is correctly identified as Francis, Daniel.
+
+Account Expiration Date for DMcAndrew : 12-Sep-2025 .
+
+Do you want to disable the account for DMcAndrew ? (yes/no) : yes
+The given username DMcAndrew has been successfully offboarded
+
+Script executed by: kgunde on 07-Oct-2025 07:29:48
+
+-----------------------------------------------------------------------------------------------------------------------

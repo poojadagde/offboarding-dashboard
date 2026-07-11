@@ -1,0 +1,18 @@
+Please enter the User's name : rsundaram
+
+User rsundaram does not exist.
+
+Script executed by: pdagde on 16-Jan-2025 03:40:15
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : rsundaram
+
+Please enter the manager's name for rsundaram : Lausten, Jason
+The manager for rsundaram is correctly identified as Lausten, Jason.
+
+Do you want to disable the account for rsundaram ? (yes/no) : yes
+The given username rsundaram has been successfully offboarded
+
+Script executed by: pdagde on 16-Jan-2025 03:41:28
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for equick : Zymberi, Emir
+The manager for equick is correctly identified as Zymberi, Emir.
+
+No expiration date set for equick .
+
+Do you want to disable the account for equick ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username equick has been successfully offboarded
+
+Script executed by: pdagde on 07-Jun-2026 03:53:17
+
+-----------------------------------------------------------------------------------------------------------------------

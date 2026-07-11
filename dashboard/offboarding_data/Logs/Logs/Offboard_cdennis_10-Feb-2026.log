@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for cdennis : Pearson, Timothy
+The manager for cdennis is correctly identified as Pearson, Timothy.
+
+Account Expiration Date for cdennis : 28-Apr-2026 .
+
+The account expiration date for cdennis is 28-Apr-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for cdennis ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username cdennis has been successfully offboarded
+
+Script executed by: pdagde on 10-Feb-2026 02:47:01
+
+-----------------------------------------------------------------------------------------------------------------------

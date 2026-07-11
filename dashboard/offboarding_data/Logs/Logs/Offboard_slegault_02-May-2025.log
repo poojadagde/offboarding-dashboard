@@ -1,0 +1,13 @@
+Please enter the User's name : slegault
+
+Please enter the manager's name for slegault : Jimenez, Alex
+The manager for slegault is correctly identified as Jimenez, Alex.
+
+No expiration date set for slegault .
+
+Do you want to disable the account for slegault ? (yes/no) : yes
+The given username slegault has been successfully offboarded
+
+Script executed by: pdagde on 02-May-2025 11:54:48
+
+-----------------------------------------------------------------------------------------------------------------------

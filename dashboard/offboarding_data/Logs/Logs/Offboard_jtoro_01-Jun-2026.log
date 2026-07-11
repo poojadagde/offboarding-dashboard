@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for jtoro : Lloyd, Sam
+The manager for jtoro is correctly identified as Lloyd, Sam.
+
+No expiration date set for jtoro .
+
+Do you want to disable the account for jtoro ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username jtoro has been successfully offboarded
+
+Script executed by: pdagde on 01-Jun-2026 05:33:29
+
+-----------------------------------------------------------------------------------------------------------------------

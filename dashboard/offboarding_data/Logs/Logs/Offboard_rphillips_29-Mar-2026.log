@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for rphillips : Mendez, Michelle
+The manager for rphillips is correctly identified as Mendez, Michelle.
+
+No expiration date set for rphillips .
+
+Do you want to disable the account for rphillips ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username rphillips has been successfully offboarded
+
+Script executed by: kgunde on 29-Mar-2026 07:08:54
+
+-----------------------------------------------------------------------------------------------------------------------

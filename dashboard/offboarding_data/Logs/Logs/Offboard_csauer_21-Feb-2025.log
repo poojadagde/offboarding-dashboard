@@ -1,0 +1,11 @@
+Please enter the User's name : csauer
+
+Please enter the manager's name for csauer : Sundaram, Deepak
+The manager for csauer is correctly identified as Sundaram, Deepak.
+
+Do you want to disable the account for csauer ? (yes/no) : yes
+The given username csauer has been successfully offboarded
+
+Script executed by: aparashar on 21-Feb-2025 10:54:49
+
+-----------------------------------------------------------------------------------------------------------------------

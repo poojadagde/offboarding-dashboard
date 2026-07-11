@@ -1,0 +1,18 @@
+﻿User dmedina does not exist.
+
+Script executed by: pdagde on 30-Mar-2026 07:03:39
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the manager's name for dmedina : Purvis, Andrew
+The manager for dmedina is correctly identified as Purvis, Andrew.
+
+No expiration date set for dmedina .
+
+Do you want to disable the account for dmedina ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username dmedina has been successfully offboarded
+
+Script executed by: pdagde on 30-Mar-2026 07:55:03
+
+-----------------------------------------------------------------------------------------------------------------------

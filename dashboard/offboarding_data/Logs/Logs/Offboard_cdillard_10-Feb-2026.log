@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for cdillard : Sandoval, Carlos
+The manager for cdillard is correctly identified as Sandoval, Carlos.
+
+Account Expiration Date for cdillard : 14-Feb-2026 .
+
+The account expiration date for cdillard is 14-Feb-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for cdillard ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username cdillard has been successfully offboarded
+
+Script executed by: pdagde on 10-Feb-2026 03:41:07
+
+-----------------------------------------------------------------------------------------------------------------------

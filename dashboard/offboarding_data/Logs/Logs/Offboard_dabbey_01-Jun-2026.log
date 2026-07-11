@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for dabbey : Banks, Eric
+The manager for dabbey is correctly identified as Banks, Eric.
+
+No expiration date set for dabbey .
+
+Do you want to disable the account for dabbey ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username dabbey has been successfully offboarded
+
+Script executed by: tmagee on 01-Jun-2026 09:55:06
+
+-----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+﻿Please enter the manager's name for nrosas : Jackson, Cody
+The manager for nrosas is correctly identified as Jackson, Cody.
+
+No expiration date set for nrosas .
+
+Do you want to disable the account for nrosas ? (yes/no) : yes
+Old terminatedStatus: T
+Updated terminatedStatus = 'T'
+The given username nrosas has been successfully offboarded
+
+Script executed by: kgunde on 22-Feb-2026 01:42:44
+
+-----------------------------------------------------------------------------------------------------------------------

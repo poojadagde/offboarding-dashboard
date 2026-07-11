@@ -1,0 +1,13 @@
+Please enter the User's name : mkeogh
+
+Please enter the manager's name for mkeogh : Bullock, Adrian
+The manager for mkeogh is correctly identified as Bullock, Adrian.
+
+Account Expiration Date for mkeogh : 01-Jan-2026 .
+
+Do you want to disable the account for mkeogh ? (yes/no) : yes
+The given username mkeogh has been successfully offboarded
+
+Script executed by: ptamrakar on 06-Jan-2026 04:50:35
+
+-----------------------------------------------------------------------------------------------------------------------

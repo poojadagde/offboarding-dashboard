@@ -1,0 +1,16 @@
+Please enter the User's name : jmilsom
+
+Please enter the manager's name for jmilsom : Lamb Smith, Kathy
+The manager for jmilsom is correctly identified as Lamb Smith, Kathy.
+
+Account Expiration Date for jmilsom : 31-Jan-2026 .
+
+Do you want to disable the account for jmilsom ? (yes/no) : yes
+The given username jmilsom has been successfully offboarded
+
+Script executed by: pdagde on 04-Feb-2026 13:43:42
+
+-----------------------------------------------------------------------------------------------------------------------
+Script executed by: pdagde on 04-Feb-2026 13:57:29
+
+-----------------------------------------------------------------------------------------------------------------------

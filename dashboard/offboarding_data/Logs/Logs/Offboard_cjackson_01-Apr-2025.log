@@ -1,0 +1,10 @@
+Please enter the User's name : cjackson
+
+Please enter the manager's name for cjackson : Cheatwood, Gary
+The manager for cjackson is correctly identified as Cheatwood, Gary.
+
+Do you want to disable the account for cjackson ? (yes/no) : yes
+The given username cjackson has been successfully offboarded
+
+Script executed by: cabell on 01-Apr-2025 15:57:39
+

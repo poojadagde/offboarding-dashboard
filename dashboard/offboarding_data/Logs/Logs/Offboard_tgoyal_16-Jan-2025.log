@@ -1,0 +1,11 @@
+Please enter the User's name : tgoyal
+
+Please enter the manager's name for tgoyal : Lausten, Jason
+The manager for tgoyal is correctly identified as Lausten, Jason.
+
+Do you want to disable the account for tgoyal ? (yes/no) : yes
+The given username tgoyal has been successfully offboarded
+
+Script executed by: pdagde on 16-Jan-2025 03:08:24
+
+-----------------------------------------------------------------------------------------------------------------------

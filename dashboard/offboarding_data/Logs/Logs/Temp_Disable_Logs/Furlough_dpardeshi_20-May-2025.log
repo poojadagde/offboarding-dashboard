@@ -1,0 +1,20 @@
+Please enter the manager's name for dpardeshi : Pandey, Vikash
+The manager for dpardeshi is correctly identified as Pandey, Vikash.
+
+Do you want to disable the account for dpardeshi ? (yes/no) : no
+Operation cancelled by user.
+
+Script executed by: ptamrakar on 20-May-2025 02:30:59
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : dpardeshi
+
+Please enter the manager's name for dpardeshi : Pandey, Vikash
+The manager for dpardeshi is correctly identified as Pandey, Vikash.
+
+Do you want to disable the account for dpardeshi ? (yes/no) : yes
+The given username dpardeshi has been successfully disabled
+
+Script executed by: ptamrakar on 20-May-2025 02:58:32
+
+-----------------------------------------------------------------------------------------------------------------------

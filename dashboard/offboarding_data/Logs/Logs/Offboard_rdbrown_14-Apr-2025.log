@@ -1,0 +1,11 @@
+Please enter the User's name : rdbrown
+
+Please enter the manager's name for rdbrown : Banks, Eric
+The manager for rdbrown is correctly identified as Banks, Eric.
+
+Do you want to disable the account for rdbrown ? (yes/no) : yes
+The given username rdbrown has been successfully offboarded
+
+Script executed by: cabell on 14-Apr-2025 12:40:55
+
+-----------------------------------------------------------------------------------------------------------------------

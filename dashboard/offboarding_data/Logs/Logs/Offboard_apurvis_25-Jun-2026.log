@@ -1,0 +1,15 @@
+﻿Please enter the manager's name for apurvis : Scabarozi, Mark
+The manager for apurvis is correctly identified as Scabarozi, Mark.
+
+Account Expiration Date for apurvis : 15-Aug-2026 .
+
+The account expiration date for apurvis is 15-Aug-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for apurvis ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username apurvis has been successfully offboarded
+
+Script executed by: pdagde on 25-Jun-2026 04:43:26
+
+-----------------------------------------------------------------------------------------------------------------------

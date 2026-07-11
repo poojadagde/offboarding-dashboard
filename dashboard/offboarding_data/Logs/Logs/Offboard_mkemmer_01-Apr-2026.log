@@ -1,0 +1,23 @@
+﻿User mkemmer does not exist.
+
+Script executed by: pdagde on 01-Apr-2026 07:14:08
+
+User mkemmer does not exist.
+
+Script executed by: pdagde on 01-Apr-2026 07:18:43
+
+Please enter the manager's name for mkemmer : Sandoval, Carlos
+The manager for mkemmer is correctly identified as Sandoval, Carlos.
+
+Account Expiration Date for mkemmer : 19-May-2026 .
+
+The account expiration date for mkemmer is 19-May-2026 do you still want to offboard the user ? (yes/no) : yes .
+
+Do you want to disable the account for mkemmer ? (yes/no) : yes
+Old terminatedStatus: 
+Updated terminatedStatus = 'T'
+The given username mkemmer has been successfully offboarded
+
+Script executed by: pdagde on 01-Apr-2026 07:39:41
+
+-----------------------------------------------------------------------------------------------------------------------

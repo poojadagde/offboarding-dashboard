@@ -1,0 +1,11 @@
+Please enter the User's name : kbeckstrand
+
+Please enter the manager's name for kbeckstrand : Stewart, Edward
+The manager for kbeckstrand is correctly identified as Stewart, Edward.
+
+Do you want to disable the account for kbeckstrand ? (yes/no) : yes
+The given username kbeckstrand has been successfully offboarded
+
+Script executed by: cabell on 07-Apr-2026 10:15:56
+
+-----------------------------------------------------------------------------------------------------------------------

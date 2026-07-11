@@ -1,0 +1,21 @@
+Please enter the User's name : pbajpai
+
+Please enter the manager's name for pbajpai :  London, Steve
+The given manager name is invalid; as per the system record, the manager name is London, Steve. Please re-execute the script using the correct manager's name.
+
+Script executed by: pdagde on 19-May-2025 03:19:57
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : pbajpai
+
+Please enter the manager's name for pbajpai : London, Steve
+The manager for pbajpai is correctly identified as London, Steve.
+
+No expiration date set for pbajpai .
+
+Do you want to disable the account for pbajpai ? (yes/no) : yes
+The given username pbajpai has been successfully offboarded
+
+Script executed by: pdagde on 19-May-2025 03:20:20
+
+-----------------------------------------------------------------------------------------------------------------------

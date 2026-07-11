@@ -1,0 +1,11 @@
+Please enter the User's name : dthomas
+
+Please enter the manager's name for dthomas : Robinson, Stephen
+The manager for dthomas is correctly identified as Robinson, Stephen.
+
+Do you want to disable the account for dthomas ? (yes/no) : yes
+The given username dthomas has been successfully offboarded
+
+Script executed by: aparashar on 21-Feb-2025 11:54:43
+
+-----------------------------------------------------------------------------------------------------------------------

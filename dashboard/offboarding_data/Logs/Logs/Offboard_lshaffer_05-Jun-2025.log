@@ -1,0 +1,18 @@
+Please enter the User's name : lshaffer
+
+No manager found for lshaffer.
+
+Script executed by: dpardeshi on 05-Jun-2025 04:20:59
+
+-----------------------------------------------------------------------------------------------------------------------
+Please enter the User's name : lshaffer
+
+Please enter the manager's name for lshaffer : Wake, Andy
+The manager for lshaffer is correctly identified as Wake, Andy.
+
+Do you want to disable the account for lshaffer ? (yes/no) : yes
+The given username lshaffer has been successfully offboarded
+
+Script executed by: dpardeshi on 05-Jun-2025 04:27:01
+
+-----------------------------------------------------------------------------------------------------------------------
