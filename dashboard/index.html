@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Operations Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <h1>Operations Hub</h1>
+          <p>Automation dashboard</p>
+        </div>
+
+        <nav class="menu" aria-label="Dashboard sections">
+          <button class="menu-item active" data-target="onboarding">Onboarding</button>
+          <button class="menu-item" data-target="offboarding">Offboarding</button>
+          <button class="menu-item" data-target="about">About</button>
+        </nav>
+      </aside>
+
+      <main class="content">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Dashboard</p>
+            <h2 id="page-title">Onboarding</h2>
+          </div>
+          <div class="status-pill" id="status-pill">Automation Dashboard • Onboarding</div>
+        </header>
+
+        <section class="card-grid">
+          <article class="card">
+            <h3 id="section-heading">Onboarding Overview</h3>
+            <p id="section-description">Overview of new employee setup steps, access approvals, and welcome tasks.</p>
+          </article>
+
+          <article class="card">
+            <h3>Key Actions</h3>
+            <ul id="section-list">
+              <li>Review account provisioning requests</li>
+              <li>Assign required tools and permissions</li>
+              <li>Confirm welcome communication has been sent</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Quick Notes</h3>
+            <p id="section-note">Keep this section updated so each new joiner has a smooth start.</p>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
 
